@@ -1,0 +1,9 @@
+{
+  "@type": "PropertyValue",
+  "name": "tdds_sexual",
+  "description": "TDDS sexual subscale: sum of the 7 sexual items",
+  "valueType": "int",
+  "subscale": "sexual",
+  "minValue": 0,
+  "maxValue": 42
+}

@@ -1,0 +1,58 @@
+---
+title: "TDDS"
+---
+
+Three Domain Disgust Scale
+
+### Instructions
+
+The following items describe a variety of concepts. Please rate how disgusting you find the concepts described in the items, where 0 means that you do not find the concept disgusting at all, and 6 means that you find the concept extremely disgusting.
+
+### Response Options
+
+* 0 (not at all disgusting)
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6 (extremely disgusting)
+
+### Questions
+
+* [tdds_moral_1](tdds/moral_1.json): Shoplifting a candy bar from a convenience store
+* [tdds_moral_2](tdds/moral_2.json): Stealing from a neighbor
+* [tdds_moral_3](tdds/moral_3.json): A student cheating to get good grades
+* [tdds_moral_4](tdds/moral_4.json): Deceiving a friend
+* [tdds_moral_5](tdds/moral_5.json): Forging someone's signature on a legal document
+* [tdds_moral_6](tdds/moral_6.json): Cutting to the front of a line to purchase the last few tickets to a show
+* [tdds_moral_7](tdds/moral_7.json): Intentionally lying during a business transaction
+* [tdds_sexual_1](tdds/sexual_1.json): Hearing two strangers having sex
+* [tdds_sexual_2](tdds/sexual_2.json): Performing oral sex
+* [tdds_sexual_3](tdds/sexual_3.json): Watching a pornographic video
+* [tdds_sexual_4](tdds/sexual_4.json): Finding out that someone you don't like has sexualfantasies about you
+* [tdds_sexual_5](tdds/sexual_5.json): Bringing someone you just met back to your room to have sex
+* [tdds_sexual_6](tdds/sexual_6.json): A stranger of the opposite sex intentionally rubbing your thigh in an elevator
+* [tdds_sexual_7](tdds/sexual_7.json): Having anal sex with someone of the opposite sex
+* [tdds_pathogen_1](tdds/pathogen_1.json): Stepping on dog poop
+* [tdds_pathogen_2](tdds/pathogen_2.json): Sitting next to someone who has red sores on their arm
+* [tdds_pathogen_3](tdds/pathogen_3.json): Shaking hands with a stranger who has sweaty palms
+* [tdds_pathogen_4](tdds/pathogen_4.json): Seeing some mold on old leftovers in your refrigerator
+* [tdds_pathogen_5](tdds/pathogen_5.json): Standing close to a person who has body odor
+* [tdds_pathogen_6](tdds/pathogen_6.json): Seeing a cockroach run across the floor
+* [tdds_pathogen_7](tdds/pathogen_7.json): Accidentally touching a person's bloody cut
+
+### Subscales
+
+* [tdds_moral](tdds/moral.json)
+* [tdds_sexual](tdds/sexual.json)
+* [tdds_pathogen](tdds/pathogen.json)
+
+### Scoring
+
+Sum scores on each subscale.
+
+### Citation
+
+Tybur, J. M., Lieberman, D., & Griskevicius, V. (2009). Microbes, mating, and morality: Individual differences in three functional domains of disgust. Journal of Personality and Social Psychology, 97(1), 103–122. <https://doi.org/10.1037/a0015474>
+

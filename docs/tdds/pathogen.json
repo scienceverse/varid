@@ -1,0 +1,9 @@
+{
+  "@type": "PropertyValue",
+  "name": "tdds_pathogen",
+  "description": "TDDS pathogen subscale: sum of the 7 pathogen items",
+  "valueType": "int",
+  "subscale": "pathogen",
+  "minValue": 0,
+  "maxValue": 42
+}

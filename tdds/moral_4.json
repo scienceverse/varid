@@ -1,0 +1,17 @@
+{
+  "@type": "PropertyValue",
+  "name": "tdds_moral_4",
+  "description": "Deceiving a friend",
+  "valueType": "int",
+  "subscale": "moral",
+  "levels": {
+    "0": "not at all disgusting",
+    "1": "[unlabeled 1/6 between not at all/extremely disgusting]",
+    "2": "[unlabeled 2/6 between not at all/extremely disgusting]",
+    "3": "[unlabeled 3/6 between not at all/extremely disgusting]",
+    "4": "[unlabeled 4/6 between not at all/extremely disgusting]",
+    "5": "[unlabeled 5/6 between not at all/extremely disgusting]",
+    "6" : "extremely disgusting"
+  },
+  "levelsOrdered": true
+}

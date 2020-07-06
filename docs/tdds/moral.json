@@ -1,0 +1,9 @@
+{
+  "@type": "PropertyValue",
+  "name": "tdds_moral",
+  "description": "TDDS moral subscale: sum of the 7 moral items",
+  "valueType": "int",
+  "subscale": "moral",
+  "minValue": 0,
+  "maxValue": 42
+}
