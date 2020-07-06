@@ -5,5 +5,6 @@
   "valueType": "int",
   "subscale": "sexual",
   "minValue": 0,
-  "maxValue": 42
+  "maxValue": 42,
+  "var": ["sexual_1", "sexual_2", "sexual_3", "sexual_4", "sexual_5", "sexual_6", "sexual_7"]
 }
