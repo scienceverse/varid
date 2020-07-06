@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_13",
+  "description": "I get sudden feelings of panic:",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "3": "Very often indeed",
+    "2": "Quite often",
+    "1": "Not very often",
+    "0": "Not at all"
+  },
+  "levelsOrdered": true
+}

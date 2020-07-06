@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_07",
+  "description": "I can sit at ease and feel relaxed:",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "0": "Definitely",
+    "1": "Usually",
+    "2": "Not often",
+    "3": "Not at all"
+  },
+  "levelsOrdered": true
+}

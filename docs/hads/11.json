@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_11",
+  "description": "I feel restless as if I have to be on the move:",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "3": "Very much indeed",
+    "2": "Quite a lot",
+    "1": "Not very much",
+    "0": "Not at all"
+  },
+  "levelsOrdered": true
+}

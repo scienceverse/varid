@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_08",
+  "description": "I feel as if I am slowed down:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "3": "Nearly all of the time",
+    "2": "Very often",
+    "1": "Sometimes",
+    "0": "Not at all"
+  },
+  "levelsOrdered": true
+}

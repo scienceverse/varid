@@ -1,0 +1,10 @@
+---
+title: "VarID"
+---
+
+This is a demo website for a data identifier concept. Variable that are defined in the Psych-DS format can have an optional "identifier" that is a URL that uniquely identifies a variable so that the same items can be identified across datasets, even if they have different names in each dataset.
+
+## Questionnaires
+
+* [HADS](hads.html): Hospital Anxiety and Depression Scale
+* [TDDS](tdds.html): Three Domain Disgust Scale

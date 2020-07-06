@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_12",
+  "description": "I look forward with enjoyment to things:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "0": "A much as I ever did",
+    "1": "Rather less than I used to",
+    "2": "Definitely less than I used to",
+    "3": "Hardly at all"
+  },
+  "levelsOrdered": true
+}

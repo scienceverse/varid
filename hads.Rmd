@@ -1,0 +1,42 @@
+---
+title: "HADS"
+---
+
+Hospital Anxiety and Depression Scale (HADS)
+
+### Instructions
+
+Doctors are aware that emotions play an important part in most illnesses. If your doctor knows about these feelings he or she will be able to help you more. This questionnaire is designed to help your doctor know how you feel. Read each item and circle the reply which comes closest to how you have been feeling in the past week. Don’t take too long over
+your replies: your immediate reaction to each item will probably be more accurate than a long thought out response.
+
+
+### Questions
+
+* [hads_01](hads/01.json) Feel tense or wound up
+* [hads_02](hads/02.json) I still enjoy things I used to enjoy
+* [hads_03](hads/03.json) I get a sort of frightened feeling as if something awful is about to happen
+* [hads_04](hads/04.json) I can laugh and see the funny side of things
+* [hads_05](hads/05.json) Worrying thoughts go through my mind
+* [hads_06](hads/06.json) I feel cheerful
+* [hads_07](hads/07.json) I can sit at ease and feel relaxed
+* [hads_08](hads/08.json) I feel as if I am slowed down
+* [hads_09](hads/09.json) I get a sort of frightened feeling like butterflies in my stomach
+* [hads_10](hads/10.json) I have lost interest in my appearance
+* [hads_11](hads/11.json) I feel restless as if I have to be on the move
+* [hads_12](hads/12.json) I look forward with enjoyment to things
+* [hads_13](hads/13.json) I get sudden feelings of panic
+* [hads_14](hads/14.json) I can enjoy a good book or radio or TV programme
+
+### Subscales
+
+* [hads_d](hads/d.json) Depression
+* [hads_a](hads/a.json) Anxiety
+
+### Scoring
+
+Sum the scores for each of the two subscales (depression and anxiety). Scores of 0-7 in the subscales are considered normal, with 8-10 borderline and 11 or over indicating clinical 'caseness'.
+
+
+### Citation
+
+Snaith R. P. (2003). The Hospital Anxiety And Depression Scale. Health and quality of life outcomes, 1, 29. <https://doi.org/10.1186/1477-7525-1-29>

@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_10",
+  "description": "I have lost interest in my appearance:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "3": "Definitely",
+    "2": "I don’t take as much care as I should",
+    "1": "I may not take quite as much care",
+    "0": "I take just as much care as ever"
+  },
+  "levelsOrdered": true
+}

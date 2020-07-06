@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_06",
+  "description": "I feel cheerful:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "3": "Not at all",
+    "2": "Not often",
+    "1": "Sometimes",
+    "0": "Most of the time"
+  },
+  "levelsOrdered": true
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_a",
+  "description": "HADS anxiety subscale: sum of the 7 anxiety items",
+  "valueType": "int",
+  "subscale": "anxiety",
+  "minValue": 0,
+  "maxValue": 21
+}

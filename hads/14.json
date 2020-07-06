@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_14",
+  "description": "I can enjoy a good book or radio or TV programme:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "0": "Often",
+    "1": "Sometimes",
+    "2": "Not often",
+    "3": "Very seldom"
+  },
+  "levelsOrdered": true
+}

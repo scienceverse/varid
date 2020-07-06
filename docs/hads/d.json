@@ -1,0 +1,9 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_d",
+  "description": "HADS depression subscale: sum of the 7 depression items",
+  "valueType": "int",
+  "subscale": "depression",
+  "minValue": 0,
+  "maxValue": 21
+}

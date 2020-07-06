@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_01",
+  "description": "I feel tense or 'wound up':",
+  "valueType": "int",
+  "subscale": "anxiety",
+  "levels": {
+    "3": "Most of the time",
+    "2": "A lot of the time",
+    "1": "Time to time, occasionally",
+    "0": "Not at all"
+  },
+  "levelsOrdered": true
+}

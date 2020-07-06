@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_04",
+  "description": "I can laugh and see the funny side of things:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "0": "As much as I always could",
+    "1": "Not quite so much now",
+    "2": "Definitely not so much now",
+    "3": "Not at all"
+  },
+  "levelsOrdered": true
+}

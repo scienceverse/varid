@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_02",
+  "description": "I still enjoy things I used to enjoy:",
+  "valueType": "int",
+  "subscale": "Depression",
+  "levels": {
+    "0": "Definitely as much",
+    "1": "Not quite so much",
+    "2": "Only a little",
+    "3": "Hardly at all"
+  },
+  "levelsOrdered": true
+}

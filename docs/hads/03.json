@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_03",
+  "description": "I get a sort of frightened feeling like something awful is about to happen:",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "3": "Very definitely and quite badly",
+    "2": "Yes, but not too badly",
+    "1": "A little, but it doesn’t worry me",
+    "0": "Not at all"
+  },
+  "levelsOrdered": true
+}

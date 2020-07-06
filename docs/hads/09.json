@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_09",
+  "description": "I get a sort of frightened feeling like 'butterflies in the stomach':",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "0": "Not at all",
+    "1": "Occasionally",
+    "2": "Quite often",
+    "3": "Very often"
+  },
+  "levelsOrdered": true
+}

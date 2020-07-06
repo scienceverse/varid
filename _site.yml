@@ -1,0 +1,10 @@
+name: "varid"
+author: "Lisa DeBruine"
+output_dir: "docs"
+exclude: ["*.xls", "*.csv","*.R"]
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+navbar:
+  title: "VarID"

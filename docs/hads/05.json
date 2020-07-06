@@ -1,0 +1,14 @@
+{
+  "@type": "PropertyValue",
+  "name": "hads_05",
+  "description": "Worrying thoughts go through my mind:",
+  "valueType": "int",
+  "subscale": "Anxiety",
+  "levels": {
+    "3": "A great deal of the time",
+    "2": "A lot of the time",
+    "1": "From time to time but not too often",
+    "0": "Only occasionally"
+  },
+  "levelsOrdered": true
+}
