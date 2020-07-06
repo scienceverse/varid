@@ -1,0 +1,401 @@
+{
+    "res_name": "HADS",
+    "status": "active",
+    "questtype": "mixed",
+    "quest_order": "fixed",
+    "instructions": "Doctors are aware that emotions play an important part in most illnesses. If your doctor knows about these feelings he or she will be able to help you more. This questionnaire is designed to help your doctor know how you feel. Read each item and circle the reply which comes closest to how you have been feeling in the past week. Don’t take too long over your replies: your immediate reaction to each item will probably be more accurate than a long thought out response.",
+    "question": [
+        {
+            "n": 1,
+            "name": "hads_01",
+            "question": "I feel tense or 'wound up'.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Most of the time"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " A lot of the time"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " From time to time, occasionally"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 2,
+            "name": "hads_02",
+            "question": "I still enjoy the things I used to enjoy.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Definitely as much"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Not quite so much"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Only a little"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Hardly at all"
+                }
+            ]
+        },
+        {
+            "n": 3,
+            "name": "hads_03",
+            "question": "I get a sort of frightened feeling as if something awful is about to happen. ",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Very definitely and quite badly"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Yes, but not too badly"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " A little, but it doesn't worry me"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 4,
+            "name": "hads_04",
+            "question": "I can laugh and see the funny side of things.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " As much as I always could"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Not quite so much now"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Definitely not so much"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 5,
+            "name": "hads_05",
+            "question": "Worrying thoughts go through my mind.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " A great deal of the time"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " A lot of the time"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " From time to time, but not too often"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Only occasionally"
+                }
+            ]
+        },
+        {
+            "n": 6,
+            "name": "hads_06",
+            "question": "I feel cheerful.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Not at all"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Not often"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Sometimes"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Most of the time"
+                }
+            ]
+        },
+        {
+            "n": 7,
+            "name": "hads_07",
+            "question": "I can sit at ease and feel relaxed.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Definitely"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Usually"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Not often"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 8,
+            "name": "hads_08",
+            "question": "I feel as if I am slowed down.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Nearly all the time"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Very often"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Sometimes"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all "
+                }
+            ]
+        },
+        {
+            "n": 9,
+            "name": "hads_09",
+            "question": "I get a sort of frightened feeling like 'butterflies' in the stomach. ",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Not at all"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Occasionally"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Quite often"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Very often"
+                }
+            ]
+        },
+        {
+            "n": 10,
+            "name": "hads_10",
+            "question": "I have lost interest in my appearance.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Definitely "
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " I don't take as much care as I should"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " I may not take quite as much care"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " I take just as much care as ever"
+                }
+            ]
+        },
+        {
+            "n": 11,
+            "name": "hads_11",
+            "question": "I feel restless as I have to be on the move.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Very much indeed"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Quite a lot"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Not very much"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 12,
+            "name": "hads_12",
+            "question": "I look forward with enjoyment to things.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " As much as I ever did "
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Rather less than I used to"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Definitely less than I used to"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Hardly at all"
+                }
+            ]
+        },
+        {
+            "n": 13,
+            "name": "hads_13",
+            "question": "I get sudden feelings of panic.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Very often indeed"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Quite often"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Not very often"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Not at all"
+                }
+            ]
+        },
+        {
+            "n": 14,
+            "name": "hads_14",
+            "question": "I can enjoy a good book or radio or TV program.",
+            "type": "select",
+            "options": [
+                {
+                    "opt_order": 1,
+                    "opt_value": 1,
+                    "display": " Often"
+                },
+                {
+                    "opt_order": 2,
+                    "opt_value": 2,
+                    "display": " Sometimes"
+                },
+                {
+                    "opt_order": 3,
+                    "opt_value": 3,
+                    "display": " Not often"
+                },
+                {
+                    "opt_order": 4,
+                    "opt_value": 4,
+                    "display": " Very seldom"
+                }
+            ]
+        }
+    ]
+}
