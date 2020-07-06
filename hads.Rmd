@@ -2,7 +2,7 @@
 title: "HADS"
 ---
 
-Hospital Anxiety and Depression Scale (HADS)
+Hospital Anxiety and Depression Scale
 
 Download the [experimentum file](hads/hads_experimentum.json) to set this questionnaire up on an [experimentum](https://github.com/debruine/experimentum) server.
 

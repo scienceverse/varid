@@ -4,6 +4,8 @@ title: "TDDS"
 
 Three Domain Disgust Scale
 
+Download the [experimentum file](tdds/tdds_experimentum.json) to set this questionnaire up on an [experimentum](https://github.com/debruine/experimentum) server.
+
 ### Instructions
 
 The following items describe a variety of concepts. Please rate how disgusting you find the concepts described in the items, where 0 means that you do not find the concept disgusting at all, and 6 means that you find the concept extremely disgusting.

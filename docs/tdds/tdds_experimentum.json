@@ -1,0 +1,171 @@
+{
+    "res_name": "Three Domain Disgust Scale",
+    "questtype": "radiopage",
+    "quest_order": "random",
+    "instructions": "The following items describe a variety of concepts. Please rate how disgusting you find the concepts described in the items, where 0 means that you do not find the concept disgusting at all, and 6 means that you find the concept extremely disgusting.",
+    "question": [
+        {
+            "n": 1,
+            "name": "tdds_moral_1",
+            "question": "Shoplifting a candy bar from a convenience store",
+            "type": "radiorow"
+        },
+        {
+            "n": 2,
+            "name": "tdds_sexual_1",
+            "question": "Hearing two strangers having sex",
+            "type": "radiorow"
+        },
+        {
+            "n": 3,
+            "name": "tdds_pathogen_1",
+            "question": "Stepping on dog poop",
+            "type": "radiorow"
+        },
+        {
+            "n": 4,
+            "name": "tdds_moral_2",
+            "question": "Stealing from a neighbour",
+            "type": "radiorow"
+        },
+        {
+            "n": 5,
+            "name": "tdds_sexual_2",
+            "question": " Performing oral sex",
+            "type": "radiorow"
+        },
+        {
+            "n": 6,
+            "name": "tdds_pathogen_2",
+            "question": "Sitting next to someone who has red sores on their arm",
+            "type": "radiorow"
+        },
+        {
+            "n": 7,
+            "name": "tdds_moral_3",
+            "question": "  A student cheating to get good grades",
+            "type": "radiorow"
+        },
+        {
+            "n": 8,
+            "name": "tdds_sexual_3",
+            "question": "Watching a pornographic video",
+            "type": "radiorow"
+        },
+        {
+            "n": 9,
+            "name": "tdds_pathogen_3",
+            "question": "Shaking hands with a stranger who has sweaty palms",
+            "type": "radiorow"
+        },
+        {
+            "n": 10,
+            "name": "tdds_moral_4",
+            "question": "Deceiving a friend",
+            "type": "radiorow"
+        },
+        {
+            "n": 11,
+            "name": "tdds_sexual_4",
+            "question": "Finding out that someone you don't like has sexual fantasies about you",
+            "type": "radiorow"
+        },
+        {
+            "n": 12,
+            "name": "tdds_pathogen_4",
+            "question": "Seeing some mold on old leftovers in your refrigerator",
+            "type": "radiorow"
+        },
+        {
+            "n": 13,
+            "name": "tdds_moral_5",
+            "question": "Forging someone's signature on a legal document",
+            "type": "radiorow"
+        },
+        {
+            "n": 14,
+            "name": "tdds_sexual_5",
+            "question": "Bringing someone you just met back to your room to have sex",
+            "type": "radiorow"
+        },
+        {
+            "n": 15,
+            "name": "tdds_pathogen_5",
+            "question": "Standing close to a person who has body odour",
+            "type": "radiorow"
+        },
+        {
+            "n": 16,
+            "name": "tdds_moral_6",
+            "question": "Cutting to the front of a line to purchase the last few tickets to a show",
+            "type": "radiorow"
+        },
+        {
+            "n": 17,
+            "name": "tdds_sexual_6",
+            "question": "A stranger intentionally rubbing your tight in an elevator",
+            "type": "radiorow"
+        },
+        {
+            "n": 18,
+            "name": "tdds_pathogen_6",
+            "question": "Seeing a cockroach run across the floor",
+            "type": "radiorow"
+        },
+        {
+            "n": 19,
+            "name": "tdds_moral_7",
+            "question": "Intentionally lying during a business transaction",
+            "type": "radiorow"
+        },
+        {
+            "n": 20,
+            "name": "tdds_sexual_7",
+            "question": "  Having anal sex",
+            "type": "radiorow"
+        },
+        {
+            "n": 21,
+            "name": "tdds_pathogen_7",
+            "question": "Accidentally touching a person's bloody cut",
+            "type": "radiorow"
+        }
+    ],
+    "radiorow_options": [
+        {
+            "opt_order": 1,
+            "opt_value": 0,
+            "display": "0       \n\nnot at all disgusting"
+        },
+        {
+            "opt_order": 2,
+            "opt_value": 1,
+            "display": 1
+        },
+        {
+            "opt_order": 3,
+            "opt_value": 2,
+            "display": 2
+        },
+        {
+            "opt_order": 4,
+            "opt_value": 3,
+            "display": 3
+        },
+        {
+            "opt_order": 5,
+            "opt_value": 4,
+            "display": 4
+        },
+        {
+            "opt_order": 6,
+            "opt_value": 5,
+            "display": 5
+        },
+        {
+            "opt_order": 7,
+            "opt_value": 6,
+            "display": "6\nextremely disgusting"
+        }
+    ]
+}
